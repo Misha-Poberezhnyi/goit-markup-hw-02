@@ -9,7 +9,7 @@ ul {
 a {
   text-decoration: none;
 }
-.logo {
+.header-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -55,12 +55,10 @@ a {
   color: #fff;
 }
 .hero-img-button {
+  color: #fff;
   background: #4d5ae5;
-}
-.hero-img-button {
   cursor: pointer;
-}
-.button-text {
+
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
