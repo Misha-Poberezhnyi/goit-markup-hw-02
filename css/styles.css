@@ -82,7 +82,10 @@ a {
   letter-spacing: 0.02em;
 }
 .our-team-page {
-  background: #ffffff;
+  background: #f4f4fd;
+}
+.team-card-item {
+  background: #fff;
 }
 .our-team-title {
   font-weight: 700;
